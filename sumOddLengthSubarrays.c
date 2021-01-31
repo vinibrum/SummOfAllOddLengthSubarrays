@@ -1,3 +1,7 @@
+// Source : https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+// Author : Vinícius Brum
+// Date   : 31-01-2021
+
 #include <stdio.h>
 
 //Given an array of positive integers arr, calculate the sum of all possible odd-length subarrays.
